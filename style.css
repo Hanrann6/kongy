@@ -60,6 +60,7 @@ input[type="checkbox"] + label{
     background-color:darkgray;
     margin-right: 12px;
     padding-top: 18px;
+    margin-bottom: 10px;
 
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;

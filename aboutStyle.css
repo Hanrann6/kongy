@@ -29,6 +29,7 @@
     background-color:darkgray;
     margin-right: 12px;
     padding-top: 18px;
+    margin-bottom: 10px;
 
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -137,27 +138,27 @@
 }
 #pt1{
     display: grid;
-    grid-template-columns: 200px 300px;
+    grid-template-columns: 180px 295px;
 }
 #pt2{
     display: grid;
-    grid-template-columns: 200px 300px;
+    grid-template-columns: 180px 295px;
 }
 #pt3{
     display: grid;
-    grid-template-columns: 200px 300px;
+    grid-template-columns: 180px 295px;
 }
 #pt4{
     display: grid;
-    grid-template-columns: 200px 300px;
+    grid-template-columns: 180px 295px;
 }
 #pt5{
     display: grid;
-    grid-template-columns: 200px 300px;
+    grid-template-columns: 180px 295px;
 }
 #pt6{
     display: grid;
-    grid-template-columns: 200px 300px;
+    grid-template-columns: 180px 295px;
 }
 
 /*하단부*/
