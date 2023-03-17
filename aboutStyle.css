@@ -47,6 +47,11 @@ a{
     text-decoration-line: none;
     color:rgb(34, 9, 84);
 }
+.notion{
+    font-size: 42px;
+    margin-top: 8px;
+}
+
 /*중앙부*/
 #middle{
     display: grid;

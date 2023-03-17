@@ -56,6 +56,10 @@ input[type="checkbox"]{
     display: grid;
     grid-template-columns: 1050px 305px;
 }
+.notion{
+    font-size: 42px;
+    margin-top: 8px;
+}
 #updown{
     background-color:darkgray;
     margin-right: 12px;
