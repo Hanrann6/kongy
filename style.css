@@ -25,10 +25,10 @@
     grid-template-rows: 200px 200px;
     margin-top: 50px;
 }
-input[type="checkbox"] + label{
+input[type="checkbox"]{
     display: inline-block;
-    /*zoom: 1.5;*/
-    transform: scale(2);
+    zoom: 3;
+    
 }
 
 #down{
