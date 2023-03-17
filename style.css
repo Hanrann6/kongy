@@ -67,6 +67,10 @@ input[type="checkbox"] + label{
     text-align: center;
     font-size: 25px;
 }
+a{
+    text-decoration-line: none;
+    color:rgb(34, 9, 84);
+}
 #id{
     background-color: darkgray;
     height: 40px;

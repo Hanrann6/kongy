@@ -43,6 +43,10 @@
     margin-right: 15px;
     padding-top: 18px;
 }
+a{
+    text-decoration-line: none;
+    color:rgb(34, 9, 84)
+}
 /*중앙부*/
 #middle{
     display: grid;

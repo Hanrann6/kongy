@@ -43,8 +43,75 @@
     margin-right: 15px;
     padding-top: 18px;
 }
+a{
+    text-decoration-line: none;
+    color:rgb(34, 9, 84);
+}
 
 /*중앙부*/
+#middle{
+    display: grid;
+    grid-template-columns: 485px 485px 485px;
+    
+    background-color: rgb(223, 197, 248);
+}
+.mmd{
+    display: grid;
+    grid-template-rows: 300px 100px;    
+
+    border: solid black 3px;
+    background-color: aqua;
+    margin-left: 40px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+
+    border: solid rgb(153, 152, 155);
+    border-radius: 30px;
+    background-color: rgb(249, 244, 255);
+}
+#meup{
+    display: grid;
+    grid-template-columns: 220px 200px;
+}
+#momup{
+    display: grid;
+    grid-template-columns: 220px 200px;
+  
+}
+#dadup{
+    display: grid;
+    grid-template-columns: 220px 200px;
+}
+.tag{
+    font-size: 30px;
+    text-align: center;
+    margin-right: 40px;
+    margin-bottom: 50px;
+    width: 450px;
+    
+}
+img{
+    width: 100%;
+    position: cover;
+    margin-left: 10px;
+    margin-top: 10px;
+
+    border-radius: 20px;
+    border: solid rgb(153, 152, 155);
+}
+#meletter{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#momletter{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#dadletter{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
 
 /*하단부*/
 #down{
