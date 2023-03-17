@@ -45,7 +45,7 @@
 }
 a{
     text-decoration-line: none;
-    color:rgb(34, 9, 84)
+    color:rgb(34, 9, 84);
 }
 /*중앙부*/
 #middle{
@@ -164,7 +164,16 @@ a{
     display: grid;
     grid-template-columns: 180px 295px;
 }
+img{
+    width: 85%;
+    height: 140px;
+    
+    object-fit: cover;
+    object-position: center;
+    margin-left: 10px;
 
+    border-radius: 20px;
+}
 /*하단부*/
 #down{
     background-color: gray;
